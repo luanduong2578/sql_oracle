@@ -1,0 +1,3 @@
+cmd
+
+sqlplus system/hsoft123456@hsoft
